@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Novo Aluno</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <form action="index.php?action=store" method="POST" >
